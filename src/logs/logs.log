@@ -1,0 +1,32 @@
+[2019-12-20T17:15:31.914Z] info: Server on port 3000
+[2019-12-20T17:15:37.953Z] info: Entered home.
+[2019-12-20T17:16:23.582Z] info: Server on port 3000
+[2019-12-20T17:16:56.349Z] info: Server on port 3000
+[2019-12-20T17:17:00.177Z] error: 404: Route not found!
+[2019-12-20T17:18:53.542Z] info: Server on port 3000
+[2019-12-20T17:19:01.691Z] error: 404: Route not found!
+[2019-12-20T17:19:11.365Z] info: Server on port 3000
+[2019-12-20T17:19:14.394Z] info: Searching for products.
+[2019-12-20T17:19:38.278Z] error: 404: Route not found!
+[2019-12-20T17:20:53.392Z] info: Server on port 3000
+[2019-12-20T17:21:03.884Z] error: 404: path [/product] not found.
+[2019-12-20T17:24:39.651Z] info: Server on port 3000
+[2019-12-20T17:24:45.734Z] info: Searching for users.
+[2019-12-20T17:24:54.706Z] info: Server on port 3000
+[2019-12-20T17:25:36.259Z] error: 404: path [/users/sat] not found.
+[2019-12-20T17:25:59.471Z] info: Server on port 3000
+[2019-12-20T17:26:02.941Z] error: 404: path [undefined] not found.
+[2019-12-20T17:26:36.786Z] info: Server on port 3000
+[2019-12-20T17:26:57.007Z] info: Server on port 3000
+[2019-12-20T17:27:04.536Z] error: 404 - Path [/users/sa] not found.
+[2019-12-20T17:27:59.211Z] info: Server on port 3000
+[2019-12-20T17:28:13.718Z] info: Server on port 3000
+[2019-12-20T17:28:25.896Z] info: Server on port 3000
+[2019-12-20T17:28:52.584Z] info: Server on port 3000
+[2019-12-20T23:07:43.086Z] info: Server on port 3000
+[2019-12-20T23:07:51.815Z] info: Entered home.
+[2019-12-20T23:08:11.735Z] error: 404 - Path [/we/er] not found.
+[2019-12-20T23:08:53.235Z] info: Server on port 3000
+[2019-12-20T23:09:33.856Z] info: Server on port 3000
+[2019-12-20T23:09:42.380Z] error: 404 - Path [/we/er?er=brew] not found.
+[2019-12-20T23:10:14.136Z] info: Server on port 3000
